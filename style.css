@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.item{
+    background-color: white;
+    color : black;
+    width : fit content;
+    margin: auto;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    text-decoration-thickness: 2px;
+    font-size: 50px;
+    text-underline-offset: 8px;
+    font-weight: bolder;
+
+
+}
+.para{
+    width: fit-content;
+    margin: auto;
+    font-size: 20px;;
+    text-align: center;
+    padding: 20px;
+    margin-top: 10px;
+    color: purple;
+}
+
+.img-uper{
+    background-color: lightgreen;
+    padding: 30px 0px;
+
+}
+
+.img{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.imgcaption{
+    margin-top: 30p;
+    font-weight: bolder;
+    font-family: italic;
+    font-size: 50px;
+}
+
+.about{
+    width: 600px;
+    margin: auto;
+    padding: 55px;
+    text-align: center;
+}
+.aboutcaption{
+    text-align: center;
+    padding-bottom: 35px;
+    font-family: arial;
+}
+.list{
+    margin-top: 40px;
+    font-size: 20px;
+}
+#id1{
+    text-align: center;
+    width: 00px;
+    margin: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-top: 40px;
+    color: rgb(77, 45, 4);
+}
+.footer{
+    color: blue;
+    width: fit-content;
+    margin: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border:2px solid black;
+    border-inline-color: rgb(84, 25, 25);
+    background-color: yellow;
+    font-size: 20px;
+}
+#y{
+    margin-top: 80px;
+    width:500;
+    height:500;
+    text-align: center;
+    font-size: large;
+}
+.last{
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+#bottom{
+    margin: 80px;
+}
